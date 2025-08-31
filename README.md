@@ -1,3 +1,7 @@
+>[!IMPORTANT]
+>This fork is archived per 20250831.  
+>rpeyron made me collaborator of his repo several weeks ago, thus this fork serves no purpose anymore.
+
 # blelt2mqtt : Bluetooth LE LT Thermometer 2 MQTT
 
 This software is a simple gateway to publish on MQTT for use with [Home Assistant](https://www.home-assistant.io/) or [Domoticz](https://www.domoticz.com/) temperature
